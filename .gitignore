@@ -2,3 +2,4 @@ __pycache__
 chat_history
 test*
 */chroma_db
+.vscode
