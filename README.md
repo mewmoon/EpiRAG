@@ -5,3 +5,5 @@ pip install jq pypdf streamlit
 ### run Rag
 cd 02_rag
 streamlit run app.py
+
+pip install autogen-agentchat autogen-ext
